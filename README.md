@@ -71,33 +71,6 @@
 
 ---
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Noctis43&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noctis43&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Noctis43&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=fr)
-
-</div>
-
----
-
-## 🚀 Projet phare
-
-<a href="https://github.com/Noctis43/Hotia">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Noctis43&repo=Hotia&theme=tokyonight&hide_border=true" />
-</a>
-
-<br clear="left"/>
-
----
-
 ## 📬 Me contacter
 
 <div align="center">
