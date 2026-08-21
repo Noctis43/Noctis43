@@ -17,7 +17,7 @@
   <tr>
     <td>🎓</td>
     <td><strong>Formation</strong></td>
-    <td>L2 Informatique (L2SIO) · ESMIA, Madagascar</td>
+    <td>L2 Informatique (L3SIO Génie Logiciel) · ESMIA, Madagascar</td>
   </tr>
   <tr>
     <td>🔍</td>
