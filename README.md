@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Salut%2C+je+suis+Andy;L2+Informatique+%40+ESMIA;Full-Stack+Developer;Disponible+pour+stage)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Salut%2C+je+suis+Andy;L3+Informatique+Génie+Logiciel+%40+ESMIA;Full-Stack+Developer;Disponible+pour+stage)](https://git.io/typing-svg)
 
 [![Profile views](https://komarev.com/ghpvc/?username=Noctis43&color=7C3AED&style=flat-square&label=Visiteurs)](https://github.com/Noctis43)
 &nbsp;
