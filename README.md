@@ -36,7 +36,6 @@
   </tr>
 </table>
 
-- Je travaille actuellement sur **ImmoPlan** — une plateforme immobilière sociale pour Madagascar
 
 ---
 
@@ -48,6 +47,8 @@
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
 [![Python](https://skillicons.dev/icons?i=python)](https://python.org)
+[![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io/projects/spring-boot)
+[![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
 
 **Frontend**
 
@@ -55,6 +56,7 @@
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev)
 [![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev)
+[![Angular](https://skillicons.dev/icons?i=angular)](https://angular.dev)
 
 **Bases de données**
 
